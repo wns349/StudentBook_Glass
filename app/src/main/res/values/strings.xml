@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Student Book</string>
+    <string name="title_activity_main">Student Book Main</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="to_do">To-do</string>
+    <string name="saved">Saved</string>
+
+    <string name="about_info">Developed by CDSN</string>
+
+    <string name="add_new_student_name_label">Name: </string>
+    <string name="add_new_student_major_label">Major: </string>
+    <string name="add_new_student_tap">Tap when ready to speak</string>
+
+    <string name="inst_tap_when_ready_to_speak">Tap when ready to speak</string>
+    <string name="inst_say_name">What is the student\'s name?</string>
+    <string name="inst_say_major">What is the student\'s major?</string>
+    <string name="inst_tap_to_save">Tap to save</string>
+
+</resources>
